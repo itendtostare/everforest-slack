@@ -23,4 +23,4 @@ See this [wiki page](https://github.com/sainnhe/everforest/wiki).
 
 ## License
 
-[MIT](./LICENSE) © sainnhe
+[MIT](./LICENSE) © itendtostare

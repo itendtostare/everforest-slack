@@ -1,6 +1,9 @@
 # everforest-slack
 🌲 Comfortable &amp; Pleasant Color Scheme for Slack Inspired by sainnhe/everforest.
 
+![everforest-slack-png](https://github.com/itendtostare/everforest-slack/blob/main/slack-everforest.png?raw=true "Optional Title")
+
+
 ## Introduction
 
 Everforest is a green based color scheme, it's designed to be warm and soft in order to protect developers' eyes. I built

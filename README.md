@@ -10,7 +10,6 @@ Everforest is a green based color scheme, it's designed to be warm and soft in o
 
 ### Installation
 
-- Copy the values below
 - In Slack, click on the workspace icon and open the preferences pane
 - Navigate to the Themes section and paste the following
 

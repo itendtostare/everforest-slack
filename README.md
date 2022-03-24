@@ -1,7 +1,7 @@
 # everforest-slack
 🌲 Comfortable &amp; Pleasant Color Scheme for Slack Inspired by sainnhe/everforest.
 
-![everforest-slack-png](https://github.com/itendtostare/everforest-slack/blob/main/slack-everforest.jpg?raw=true "Optional Title")
+![everforest-slack-png](https://github.com/itendtostare/everforest-slack/blob/main/slack-everforest.png?raw=true "Optional Title")
 
 
 ## Introduction

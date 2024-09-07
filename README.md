@@ -11,6 +11,7 @@ Everforest is a green based color scheme, it's designed to be warm and soft in o
 
 ### Installation
 
+- Copy one of the theme strings from below.
 - In Slack, click on the workspace icon and open the **Preferences** pane.
 - Navigate to the **Themes** section, select **Custom theme**, then **Import** and paste theme you copied.
 
@@ -22,7 +23,7 @@ _For more info see [Slack Help Center | Change your Slack theme](https://slack.c
 #### Dark - hard
 
 ```
-#2B3339,#7A8478,#83C092,#BD6769
+#272E33,#7A8478,#83C092,#E67E80
 ```
 
 #### Dark - medium
@@ -34,7 +35,13 @@ _For more info see [Slack Help Center | Change your Slack theme](https://slack.c
 #### Dark - soft
 
 ```
-#2B3339,#7A8478,#83C092,#BD6769
+#333C43,#7A8478,#83C092,#E67E80
+```
+
+#### Light - hard
+
+```
+#FFFBEF,#A6B0A0,#35A77C,#F85552
 ```
 
 #### Light - medium
@@ -43,18 +50,24 @@ _For more info see [Slack Help Center | Change your Slack theme](https://slack.c
 #FFF9E8,#A6B0A0,#35A77C,#F85552
 ```
 
+#### Light - soft
+
+```
+#FFFAE8,#A6B0A0,#35A77C,#F85552
+```
+
 ### Color Palette
 
 The colors in these themes are taken from the main Everforest [palettes](https://github.com/sainnhe/everforest/blob/master/palette.md):
 
 
-|                     |            | Dark |                                                                      |      | Light |        |      |
-|---------------------|------------|------|----------------------------------------------------------------------|------|-------|--------|------|
-| Slack color         | Identifier | Hard | Medium                                                               | Soft | Hard  | Medium | Soft |
-| Sytem navigation    | `bg0`      |      | ![#2B3339](https://via.placeholder.com/16/2B3339/2B3339.png) #2B3339 |      |       | ![#FFF9E8](https://via.placeholder.com/16/FFF9E8/FFF9E8.png) #FFF9E8 |      |
-| Selected items      | `grey0`    |      | ![#7A8478](https://via.placeholder.com/16/7A8478/7A8478.png) #7A8478 |      |       | ![#A6B0A0](https://via.placeholder.com/16/A6B0A0/A6B0A0.png) #A6B0A0       |      |
-| Presence indication | `aqua`     |      | ![#83C092](https://via.placeholder.com/16/83C092/83C092.png) #83C092 |       |      | ![#35A77C](https://via.placeholder.com/16/35A77C/35A77C.png) #35A77C      |        |
-| Notifications       | `red`      |      | ![#BD6769](https://via.placeholder.com/16/BD6769/BD6769.png) #BD6769 |       |      | ![#F85552](https://via.placeholder.com/16/F85552/F85552.png) #F85552      |        |
+|                     |            | Dark                                                                 |                                                                      |                                                                      | Light                                                                |                                                                      |                                                                      |
+|---------------------|------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
+| Slack color         | Identifier | Hard                                                                 | Medium                                                               | Soft                                                                 | Hard                                                                 | Medium                                                               | Soft                                                                 |
+| Sytem navigation    | `bg0`      | ![#272E33](https://via.placeholder.com/16/272E33/272E33.png) #272E33 | ![#2B3339](https://via.placeholder.com/16/2B3339/2B3339.png) #2B3339 | ![#333C43](https://via.placeholder.com/16/333C43/333C43.png) #333C43 | ![#FFFBEF](https://via.placeholder.com/16/FFFBEF/FFFBEF.png) #FFFBEF | ![#FFF9E8](https://via.placeholder.com/16/FFF9E8/FFF9E8.png) #FFF9E8 | ![#FFF9E8](https://via.placeholder.com/16/FFF9E8/FFF9E8.png) #FFFAE8 |
+| Selected items      | `grey0`    | ![#7A8478](https://via.placeholder.com/16/7A8478/7A8478.png) #7A8478 | ![#7A8478](https://via.placeholder.com/16/7A8478/7A8478.png) #7A8478 | ![#7A8478](https://via.placeholder.com/16/7A8478/7A8478.png) #7A8478 | ![#A6B0A0](https://via.placeholder.com/16/A6B0A0/A6B0A0.png) #A6B0A0 | ![#A6B0A0](https://via.placeholder.com/16/A6B0A0/A6B0A0.png) #A6B0A0 | ![#A6B0A0](https://via.placeholder.com/16/A6B0A0/A6B0A0.png) #A6B0A0 |
+| Presence indication | `aqua`     | ![#83C092](https://via.placeholder.com/16/83C092/83C092.png) #83C092 | ![#83C092](https://via.placeholder.com/16/83C092/83C092.png) #83C092 | ![#83C092](https://via.placeholder.com/16/83C092/83C092.png) #83C092 | ![#35A77C](https://via.placeholder.com/16/35A77C/35A77C.png) #35A77C | ![#35A77C](https://via.placeholder.com/16/35A77C/35A77C.png) #35A77C | ![#35A77C](https://via.placeholder.com/16/35A77C/35A77C.png) #35A77C |
+| Notifications       | `red`      | ![#E67E80](https://via.placeholder.com/16/E67E80/E67E80.png) #E67E80 | ![#BD6769](https://via.placeholder.com/16/BD6769/BD6769.png) #BD6769 | ![#E67E80](https://via.placeholder.com/16/E67E80/E67E80.png) #E67E80 | ![#F85552](https://via.placeholder.com/16/F85552/F85552.png) #F85552 | ![#F85552](https://via.placeholder.com/16/F85552/F85552.png) #F85552 | ![#F85552](https://via.placeholder.com/16/F85552/F85552.png) #F85552 |
 
 
 ## Documentation
